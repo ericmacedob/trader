@@ -1,0 +1,13 @@
+- python venv 
+- install requirements
+- run thru docker? modify build
+- get appropriate keys
+- reread readme
+- run local with docker
+- hook my fork with ec2 (per commit on master)
+- get iago into private github repo
+- establish secure ssh connection with ec2 from all parties interested
+- harden ec2
+- perhaps place ec2 in vpc and do not expose externally
+- monitor logs
+- ensure non-stop like before
