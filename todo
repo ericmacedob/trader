@@ -1,8 +1,8 @@
 - python venv 
 - install requirements
 - run thru docker? modify build
-- get appropriate keys
-- reread readme
+- get appropriate api keys (eric)
+- reread readme/discord (eric)
 - run local with docker
 - hook my fork with ec2 (per commit on master)
 - get iago into private github repo
@@ -11,3 +11,5 @@
 - perhaps place ec2 in vpc and do not expose externally
 - monitor logs
 - ensure non-stop like before
+- harden aws access (vpc)
+- ensure data persistency 
